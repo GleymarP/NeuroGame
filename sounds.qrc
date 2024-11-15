@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/sounds/failure.wav</file>
+        <file>assets/sounds/succes.wav</file>
+        <file>assets/sounds/cat.wav</file>
+        <file>assets/sounds/chick.wav</file>
+        <file>assets/sounds/frog.wav</file>
+        <file>assets/sounds/sheep.wav</file>
+        <file>assets/sounds/evermore.ogg</file>
+        <file>assets/sounds/champagne_problems.ogg</file>
+        <file>assets/sounds/treacherous.ogg</file>
+    </qresource>
+</RCC>
